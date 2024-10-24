@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome to my blog!
 
-Maybe say a some things about yourself.
+I am A P(persevering)h(hardworking)D(dedicating) in vision.
 
-Or maybe what you plan to blog about.
+This blog will add some contents on AIGC/3D/4D/Linux related techniques.
