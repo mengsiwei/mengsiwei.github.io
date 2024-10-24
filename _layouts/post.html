@@ -14,7 +14,11 @@ layout: default
       {% assign author = page.author | default: site.author %}
       {%- if author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}
+      <span id="busuanzi_container_page_pv">
+        Read:<span id="busuanzi_value_page_pv"></span>
+        </span>
+    </p>
   </header>
 
   <div class="share-links">
