@@ -18,12 +18,12 @@ layout: default
         • <span id="busuanzi_container_page_pv">
         Read:<span id="busuanzi_value_page_pv"></span></span>
 
-        \{\% if include.type == "post" \%\}
-        <span class="post-meta">\{\{ page.date | date: "%Y-%m-%d, %A  " /}/}</span>
+        {%- if include.type == "post" -%}
+        <span class="post-meta">{{ page.date | date: "%Y-%m-%d, %A  "}}</span>
         <span id="busuanzi_container_page_pv">
         阅读量<span id="busuanzi_value_page_pv"></span>次
         </span>
-        \{\% endif \%\}
+        {%- endif -%}
     </p>
   </header>
 
