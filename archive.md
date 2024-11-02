@@ -1,5 +1,6 @@
 ---
 layout: page
+title: CV
 title: Blog Archive
 ---
 
