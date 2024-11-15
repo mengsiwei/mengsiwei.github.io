@@ -40,4 +40,6 @@ defaults:
     values:
       tags: Other
 
-cv_url: "assets/cv/CV_Siwei_Meng.pdf"
+header_pages:
+  - archive.md  
+  - assets/cv/CV_Siwei_Meng.pdf 

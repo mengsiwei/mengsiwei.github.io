@@ -2,9 +2,9 @@
 layout: page
 
 title: Blog Archive
+
 ---
 
-[CV](/assets/cv/CV_Siwei_Meng.pdf)
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
