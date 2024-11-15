@@ -42,4 +42,4 @@ defaults:
 
 header_pages:
   - archive.md  
-  - assets/cv/CV_Siwei_Meng.pdf 
+  - cv.md
