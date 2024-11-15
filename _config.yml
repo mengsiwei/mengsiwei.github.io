@@ -44,3 +44,4 @@ defaults:
 header_pages:
   - archive.md  
   - cv.md
+  - project.md
