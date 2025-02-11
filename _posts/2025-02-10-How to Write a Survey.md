@@ -38,4 +38,4 @@ ___
 5. Good visualization
 6. Keep pace with the latest 
 
-See you soon!
+See you soon👋!
