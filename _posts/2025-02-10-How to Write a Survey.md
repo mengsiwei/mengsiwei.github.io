@@ -1,6 +1,6 @@
 ## How to write a Survey in months? 
 
-A note aims to inspire those write a survey for the first time.
+A note aims to inspire those wirting a survey for the first time.
 
 ---
 
@@ -8,37 +8,37 @@ A note aims to inspire those write a survey for the first time.
 
 #### First phase [collection and outline]
 
-Almost 6 months ago, my advisors proposed that we can write a Survey in this field. Then, this note will come. 
-At first, I made a literature review and collection in this field to have a knowledge of paper volume. At the suggestion of my advisor, a table used to record papers born. Don’t worry to add more unrelated papers, because it will increase linearly with time.
-I tried to make some classification, but it is so difficulty to make a clear classification. 
-Then, I quoted, and draft an outline on Survey architecture. The efficient way to draft an outline is find a reference. 
+Almost six months ago, my advisors suggested that we write a survey in this field. Here, this note comes. 
+At first, I conducted a literature review and collected papers in this field to understand the volume of existing work. Following my advisor’s suggestion, I created a table to record the papers. Don’t worry about just few papers—over time, they will accumulate linearly.
+I tried to classify the papers, but it was difficult to establish a clear classification system.
+Then, I quited, and drafted an outline for the survey architecture. The most efficient way to draft an outline is to find a reference. 
 
 #### Second phase [add, add, and add]
 
-At the beginning, it is very hard for me to write any meaningful content onto it. I have no idea where I start. Then, my advisor suggested maybe you can add one paper you have read. Don’t care the connection, just add it. Thus, we set a goal that every week, read, summarize, and add around three papers in this area. This is a long process, please hang in there, and be regular. You will have fun.
+In the beginning, it was very hard for me to write anything meaningful. I have no idea where to start. Then, my advisor suggested, "Maybe you can start by adding one paper you’ve read." Don’t worry about the connections, just add it. So, we set a goal that every week, read, summarize, and add around three papers in this area. This is a long process, please hang in there, and be regular. You will have fun.
 
 #### Third phase [draft]
 
-Now, this survey cannot be name an article, because there is no connection with each part, and especially each paper. Luckily, you will have some ideas on how to classification, how to organize each parts. It's amazing, but it's the truth.
-I first make a relative mature classification system. Actually, I have modified several version of this classification.
-
+At this stage, the survey still couldn’t be considered a proper article because there was no connection between different parts, especially between papers. 
+Luckily, you will have developed some ideas on how to make a classification system, and how to organize each parts It's amazing, but it's the truth.
+I first created a relatively mature classification system. Actually, I have modified several version before settling on one.
 
 #### Fourth phase [polish]
 
-First of all, the biggest problem lies in organization between each part. It will be weird if you just go directly into the content without transition sentence.
-Second, give the corresponding solution or existing progress after you propose a problem.
-Finally, a good visualization or table can leave impression.
+First of all, the biggest problem lies in organizing different sections. If you jump straight into content without transition sentences, the flow will feel unnatural. Take some time in organization the transition sentence.
+Second, after proposing a problem, always provide corresponding solutions or discuss existing progress.
+Finally, a good visualization or table can leave a strong impression.
 
 ___
 
 ### Tips
 
 Tips:
-1. Make a table on paper lists
+1. Make a table about paper lists
 2. Set a regular writing habit
 3. Make connection
 4. Be careful of problem and solution sentence 
 5. Good visualization
 6. Keep pace with the latest 
 
-
+See you soon!
