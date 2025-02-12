@@ -1,6 +1,6 @@
 ## How to write a Survey in months? 
 
-A note aims to inspire those wirting a survey for the first time.
+A note aims to inspire those writing a survey for the first time.
 
 ---
 
@@ -46,4 +46,11 @@ ___
 5. Good visualization
 6. Keep pace with the latest 
 
+___
+
+#### Reference
+
+**[Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC](https://arxiv.org/abs/2502.07007)** 
+
 See you soon👋!
+
