@@ -53,4 +53,3 @@ ___
 **[Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC](https://arxiv.org/abs/2502.07007)** 
 
 See you soon👋!
-
