@@ -1,0 +1,21 @@
+<div class="project-list">
+  {%- for p in site.data.projects -%}
+  <div class="project-item">
+    <div class="project-teaser">
+      <img src="{{ p.teaser | default: '/assets/projects/placeholder.svg' | relative_url }}" alt="{{ p.title | escape }}" loading="lazy">
+    </div>
+    <div class="project-info">
+      <div class="project-title">{{ p.title }}</div>
+      <div class="project-authors">{{ p.authors | replace: site.me, '<strong>__ME__</strong>' | replace: '__ME__', site.me }}</div>
+      {%- if p.venue %}
+      <div class="project-venue">{{ p.venue }}</div>
+      {%- endif %}
+      <div class="project-links">
+        {%- if p.project %}<a class="project-btn" href="{{ p.project }}">Project Page</a>{% endif -%}
+        {%- if p.paper %}<a class="project-btn" href="{{ p.paper }}">Paper</a>{% endif -%}
+        {%- if p.code %}<a class="project-btn" href="{{ p.code }}">Code</a>{% endif -%}
+      </div>
+    </div>
+  </div>
+  {%- endfor -%}
+</div>

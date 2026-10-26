@@ -1,0 +1,86 @@
+/* Home page: profile links, project rows, hobbies. Inherits minima fonts and colors. */
+.profile-links a {
+  margin-right: 12px;
+  white-space: nowrap;
+}
+
+.project-list {
+  margin-bottom: 30px;
+}
+
+.project-item {
+  display: flex;
+  gap: 24px;
+  padding: 18px 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.project-item:last-child {
+  border-bottom: none;
+}
+
+.project-teaser {
+  flex: 0 0 220px;
+}
+
+.project-teaser img {
+  width: 100%;
+  border-radius: 4px;
+  display: block;
+}
+
+.project-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-title {
+  font-size: 1.125em;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+
+.project-authors {
+  font-size: 0.95em;
+  color: #424242;
+}
+
+.project-venue {
+  font-size: 0.9em;
+  font-style: italic;
+  color: #828282;
+  margin-top: 2px;
+}
+
+.project-links {
+  margin-top: auto;
+  padding-top: 10px;
+}
+
+.project-btn {
+  display: inline-block;
+  font-size: 0.85em;
+  padding: 2px 12px;
+  margin-right: 8px;
+  border: 1px solid #2a7ae2;
+  border-radius: 4px;
+}
+
+.project-btn:hover {
+  background: #2a7ae2;
+  color: #fff !important;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+  .project-item {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .project-teaser {
+    flex: none;
+    max-width: 320px;
+  }
+}

@@ -1,0 +1,17 @@
+# Projects shown on the home page, top to bottom.
+# Your name in `authors` is bolded automatically (see `me` in _config.yml).
+# `teaser` is an image path; leave it empty to show a placeholder.
+# `project` / `paper` are optional; a button is shown only when the link is set.
+
+- title: "Project Title One"
+  teaser: /assets/projects/placeholder.svg
+  authors: "Siwei Meng, Coauthor A, Ping Liu"
+  venue: "Accepted at Conference 2026"
+  project: "#"
+  paper: "#"
+
+- title: "Project Title Two"
+  teaser: /assets/projects/placeholder.svg
+  authors: "Coauthor B, Siwei Meng, Ping Liu"
+  venue: "Under review"
+  paper: "#"
