@@ -1,6 +1,6 @@
 /* Home page: profile links, project rows, hobbies. Inherits minima fonts and colors. */
 .hobbies-heading {
-  margin-top: 18px;
+  margin-top: 28px;
 }
 
 .profile-links a {
@@ -9,7 +9,7 @@
 }
 
 .projects-heading {
-  margin-top: 138px;
+  margin-top: 108px;
 }
 
 .project-list {
