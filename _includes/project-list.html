@@ -2,7 +2,13 @@
   {%- for p in site.data.projects -%}
   <div class="project-item">
     <div class="project-teaser">
-      <img src="{{ p.teaser | default: '/assets/projects/placeholder.svg' | relative_url }}" alt="{{ p.title | escape }}" loading="lazy">
+      {%- assign teaser = p.teaser | default: '/assets/projects/placeholder.svg' -%}
+      {%- assign ext = teaser | split: '.' | last | downcase -%}
+      {%- if ext == 'mp4' or ext == 'webm' %}
+      <video src="{{ teaser | relative_url }}" autoplay loop muted playsinline preload="metadata"></video>
+      {%- else %}
+      <img src="{{ teaser | relative_url }}" alt="{{ p.title | escape }}" loading="lazy">
+      {%- endif %}
     </div>
     <div class="project-info">
       <div class="project-title">{{ p.title }}</div>

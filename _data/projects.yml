@@ -1,17 +1,26 @@
 # Projects shown on the home page, top to bottom.
 # Your name in `authors` is bolded automatically (see `me` in _config.yml).
-# `teaser` is an image path; leave it empty to show a placeholder.
+# `teaser` is a png/jpg/gif/svg image or an mp4/webm video (autoplays muted on loop);
+# leave it empty to show a placeholder.
 # `project` / `paper` are optional; a button is shown only when the link is set.
 
-- title: "Project Title One"
-  teaser: /assets/projects/placeholder.svg
-  authors: "Siwei Meng, Coauthor A, Ping Liu"
-  venue: "Accepted at Conference 2026"
-  project: "#"
-  paper: "#"
+- title: "PhyMetric: Diagnosing Physical Plausibility in Text-to-Video Generation via Scene-Level QA"
+  teaser: /assets/projects/teaser_phymagic.gif
+  authors: "Siwei Meng, Xuerou Cai, Rui Hu, Ping Liu"
+  venue: "NeurIPS 2026 (ED Track)"
+  project: "https://mengsiwei.github.io/PhyMetric/"
+  paper: "https://arxiv.org/abs/2610.19823"
 
-- title: "Project Title Two"
-  teaser: /assets/projects/placeholder.svg
-  authors: "Coauthor B, Siwei Meng, Ping Liu"
-  venue: "Under review"
-  paper: "#"
+- title: "PhyMAGIC: Physical Motion-Aware Generative Inference with Confidence-guided VLM"
+  teaser: /assets/projects/teaser_phymetric.png
+  authors: "Siwei Meng, Yawei Luo, Ping Liu"
+  venue: "ECCV 2026"
+  project: " https://mengsiwei.github.io/MAGIC/"
+  paper: "https://arxiv.org/abs/2505.16456?"
+
+- title: "When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation"
+  teaser: /assets/projects/teaser_psdpo.gif
+  authors: "Siwei Meng, Yawei Luo, Shu Zhang,Ping Liu"
+  venue: "ACM MM 2026 (Oral)"
+  paper: "https://arxiv.org/abs/2607.16947"
+
