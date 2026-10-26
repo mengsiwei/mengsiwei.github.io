@@ -4,6 +4,10 @@
   white-space: nowrap;
 }
 
+.projects-heading {
+  margin-top: 48px;
+}
+
 .project-list {
   margin-bottom: 30px;
 }

@@ -17,5 +17,6 @@ I am a third-year PhD student in Computer Science at the University of Nevada, R
 🏸 badminton · ☕ coffee · walking with 📷
 
 ### Projects
+{: .projects-heading}
 
 {% include project-list.html %}

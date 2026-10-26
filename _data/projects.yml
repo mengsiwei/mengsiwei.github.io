@@ -5,14 +5,14 @@
 # `project` / `paper` are optional; a button is shown only when the link is set.
 
 - title: "PhyMetric: Diagnosing Physical Plausibility in Text-to-Video Generation via Scene-Level QA"
-  teaser: /assets/projects/teaser_phymagic.gif
+  teaser: /assets/projects/teaser_phymetric.png
   authors: "Siwei Meng, Xuerou Cai, Rui Hu, Ping Liu"
   venue: "NeurIPS 2026 (ED Track)"
   project: "https://mengsiwei.github.io/PhyMetric/"
   paper: "https://arxiv.org/abs/2610.19823"
 
 - title: "PhyMAGIC: Physical Motion-Aware Generative Inference with Confidence-guided VLM"
-  teaser: /assets/projects/teaser_phymetric.png
+  teaser: /assets/projects/teaser_phymagic.gif
   authors: "Siwei Meng, Yawei Luo, Ping Liu"
   venue: "ECCV 2026"
   project: " https://mengsiwei.github.io/MAGIC/"
