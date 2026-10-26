@@ -1,4 +1,8 @@
 /* Home page: profile links, project rows, hobbies. Inherits minima fonts and colors. */
+.hobbies-heading {
+  margin-top: 18px;
+}
+
 .profile-links a {
   margin-right: 12px;
   white-space: nowrap;
