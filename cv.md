@@ -4,6 +4,6 @@ title: "CV"
 # permalink: /cv/
 ---
 
-I am a second-year PhD student in Computer Science at the University of Nevada, Reno. My advisor is Professor Ping LIU. Prior to study at UNR, I finished my Master at Shenzhen University under the supervision of Fellow Wenhua Ding and Corresponding tutor Wuzhen Shi, and Bachelor at South China University of China.
+I am a third-year PhD student in Computer Science at the University of Nevada, Reno. My advisor is Professor Ping LIU. Prior to study at UNR, I finished my Master at Shenzhen University under the supervision of Fellow Wenhua Ding and Corresponding tutor Wuzhen Shi, and Bachelor at South China University of China.
 
 [CV (PDF)](/assets/cv/SIWEI_MENG_CV_2026.pdf)
